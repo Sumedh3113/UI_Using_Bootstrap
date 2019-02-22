@@ -1,0 +1,119 @@
+.container-fluid.first {
+    
+    margin: 0px;
+    padding: 0px;
+    
+}
+.jumbotron{
+    text-align:center;
+    background: none;
+    
+}
+
+
+.d-block {
+    
+    height:300px;
+    
+    
+}
+
+
+.jumbotron {
+/* margin-top: 10%;*/
+ padding: 0px;
+ height: 100px;
+}
+
+.section-light{
+ background-color: #eceeef;  
+ padding: 2rem;
+}
+
+/*
+.smallimg img{
+height: 50%;
+margin-bottom: -20px;
+}
+
+.fitimg img{
+    height: 100px;
+    
+}
+*/
+
+.section-dark{
+    
+    background-color: #cccccc;
+    padding: 2rem;
+    display: block;
+/*    height: 325px;*/
+/*    padding-bottom: 0px;*/
+    
+}
+
+.btn-danger{
+    display: block;
+    margin: auto;
+    
+}
+
+.modal-title {
+    display: block;
+    margin: auto;
+}
+
+.formwrapper {
+    
+    padding: 2rem;
+}
+
+.field img{
+    height: 300px;
+    
+}
+
+.img-center {
+    display: block;
+    margin: auto;
+}
+
+.img-padding {
+    padding: 5px;
+    
+}
+
+.btncenter {
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:45%;
+    
+}
+
+
+.footerImg{
+/*    background-color: red;*/
+    padding: 10px;
+}
+
+.fa {
+    margin: 10px;
+    
+}
+.fa-facebook-square{
+    color: #3b5998; 
+}
+
+.fa-google {
+    color: coral;
+}
+
+.fa-instagram {
+    color: aliceblue;
+}
+
+.socialWrapper{
+    margin: auto;
+}
